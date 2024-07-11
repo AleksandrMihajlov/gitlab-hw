@@ -62,10 +62,17 @@ Git - Михайлов Александр
   
 **Задание 4**  
 1.Создайте ветку conflict и переключитесь на неё.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.1.png)
 2.Внесите изменения в файл test.sh.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.23.png)
 3.Сделайте коммит и пуш.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.23.png)
 4.Переключитесь на основную ветку.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.4.png)
 5.Измените ту же самую строчку в файле test.sh.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.5.png)
 6.Сделайте коммит и пуш.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.6.png)
 7.Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/4.7.png)
 [Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/network)
