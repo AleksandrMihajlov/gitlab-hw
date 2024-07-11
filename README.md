@@ -57,4 +57,15 @@ Git - Михайлов Александр
 7.Сделайте пуш в основной ветке.  
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.67.png)
 8.Не удаляйте ветку dev.
+
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/network)  
+  
+**Задание 4**  
+1.Создайте ветку conflict и переключитесь на неё.  
+2.Внесите изменения в файл test.sh.  
+3.Сделайте коммит и пуш.  
+4.Переключитесь на основную ветку.  
+5.Измените ту же самую строчку в файле test.sh.  
+6.Сделайте коммит и пуш.  
+7.Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.  
 [Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/network)
