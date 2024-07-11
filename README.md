@@ -6,6 +6,7 @@ Git - Михайлов Александр
 2.Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/1.2.png)  
 3.Склонируйте репозиторий, используя https протокол git clone ....  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/1.3.png)
 4.Перейдите в каталог с клоном репозитория.  
 5.Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.  
 6.Выполните команду git status и запомните результат.  
@@ -15,4 +16,5 @@ Git - Михайлов Александр
 10.Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.  
 11.Ещё раз выполните команды git diff и git diff --staged.  
 12.Теперь можно сделать коммит git commit -m 'First commit'.  
-13.Сделайте git push origin master.
+13.Сделайте git push origin master.  
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/8c6fe3590796c8159f38536d0e671c1724220b26)
