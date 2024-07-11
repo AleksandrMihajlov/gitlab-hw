@@ -27,4 +27,14 @@ Git - Михайлов Александр
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/1.12.png)
 13.Сделайте git push origin master.  
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/1.13.png)
-[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/8c6fe3590796c8159f38536d0e671c1724220b26)
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/8c6fe3590796c8159f38536d0e671c1724220b26)  
+**Задание 2**  
+1.Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.1.png)
+2.Добавьте файл .gitignore в следующий коммит git add....  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.2.png)
+3.Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.3.png)
+4.Сделайте коммит и пуш.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.4.png)
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/3261b9d140546e25fddbade29c1ee215339b5184)
