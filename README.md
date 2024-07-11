@@ -38,4 +38,23 @@ Git - Михайлов Александр
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.3.png)
 4.Сделайте коммит и пуш.  
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.4.png)
-[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/3261b9d140546e25fddbade29c1ee215339b5184)
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/3261b9d140546e25fddbade29c1ee215339b5184)  
+  
+**Задание 3**  
+1.Создайте новую ветку dev и переключитесь на неё.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.1.png)
+2.Создайте в ветке dev файл test.sh с произвольным содержимым.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.2.png)
+3.Сделайте несколько коммитов и пушей в ветку dev, имитируя активную работу над файлом в процессе разработки.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.3.png)
+4.Переключитесь на основную ветку.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.4.png)
+5.Добавьте файл main.sh в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного 
+функционала в dev ветке.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.5.png)
+6.Сделайте мердж dev ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.67.png)
+7.Сделайте пуш в основной ветке.  
+![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/3.67.png)
+8.Не удаляйте ветку dev.
+[Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/network)
