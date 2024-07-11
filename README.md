@@ -28,6 +28,7 @@ Git - Михайлов Александр
 13.Сделайте git push origin master.  
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/1.13.png)
 [Ссылка](https://github.com/AleksandrMihajlov/gitlab-hw/commit/8c6fe3590796c8159f38536d0e671c1724220b26)  
+  
 **Задание 2**  
 1.Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.  
 ![alt text](https://github.com/AleksandrMihajlov/gitlab-hw/blob/main/2.1.png)
